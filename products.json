@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "name":" LD05 LOUNGE CHAIR",
+        "price": 300,
+        "image": "image/type1.jpeg",
+        "category": "flowers"
+    },
+    {
+        "id": 2,
+        "name":" LD06 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/type2.jpeg",
+        "category": "flowers"
+    },
+    {
+        "id": 3,
+        "name":" LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/type3.jpeg",
+        "category": "flowers"
+    },
+    {
+        "id": 4,
+        "name":" LD08 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/type4.jpeg",
+        "category": "flowers"
+    },
+
+    {
+        "id": 5,
+        "name":" LD05 LOUNGE CHAIR",
+        "price": 300,
+        "image": "image/own1.jpeg",
+        "category": "own"
+    },
+    {
+        "id": 6,
+        "name":" LD06 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/own2.jpeg",
+        "category": "own"
+
+    },
+    {
+        "id": 7,
+        "name":" LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/own3.jpeg",
+        "category": "own"
+
+    },
+    {
+        "id": 8,
+        "name":" LD08 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/own4.jpeg",
+        "category": "own"
+
+    },
+    {
+        "id": 9,
+        "name":" LD01 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/buket1.webp",
+        "category": "ready"
+
+    },
+    {
+        "id": 10,
+        "name":" LD02 LOUNGE CHAIR",
+        "price": 250,
+        "image": "image/buket2.webp",
+        "category": "ready"
+
+    },
+    {
+        "id": 11,
+        "name":" LD03 LOUNGE CHAIR",
+        "price": 290,
+        "image": "image/buket3.webp",
+        "category": "ready"
+
+    },
+    {
+        "id": 12,
+        "name":" LD04 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/buket4.webp",
+        "category": "ready"
+
+    }
+]
